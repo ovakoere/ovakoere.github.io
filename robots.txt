@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovakoere.github.io/MhF/sitemap_index.txt
+Sitemap: https://ovakoere.github.io/Pmr/sitemap_index.txt
+Sitemap: https://ovakoere.github.io/gZF/sitemap_index.txt
+Sitemap: https://ovakoere.github.io/sfm/sitemap_index.txt
